@@ -1,0 +1,3 @@
+<?php
+
+include_once('gtown_story.features.inc');
